@@ -18,6 +18,7 @@ It is a web application which can be used by any user to create/delete his task
 	•	Implement more validation on UI part .
 
 Application Overview- should know.
+	tech: Java 8, springboot v-2.3.3 and h2 database
 	•	implement the role based spring security.
 	•	Default username & password test and pwd123.
 	•	After successful login ,you can add the task and delete it.
